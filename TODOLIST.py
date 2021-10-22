@@ -15,6 +15,7 @@ def inputError() :
     if enterTaskField.get() == "" :
          
         # show the error message
+        #ok
         messagebox.showerror("Input Error")
          
         return 0
